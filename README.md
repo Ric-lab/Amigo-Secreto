@@ -2,6 +2,7 @@
 <h3 align="center"> Entrega desafio Amigo Secreto Oracle One </h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/Status-Complete-green">
 <h2 align="center"> Projeto para sortear um valor dentre vários que podem ser inseridos pelo usuário </h2>
+
 # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Permitir ao usuário a entrada de valores (números ou letras)
