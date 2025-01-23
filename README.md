@@ -13,7 +13,7 @@
 - `Funcionalidade 4`: Permite refazer o sorteio com os itens da lista
 - `Funcionalidade 5`: Permite reiniciar a página
 - `Funcionalidade 6`: Alterações visuais no template para incorporar as mudanças feitas
-- `Funcionalidade 6`: Deploy feito pelo github pages como solicitado
+- `Funcionalidade 6`: Deploy feito pelo github pages como solicitado - https://ric-lab.github.io/Amigo-Secreto/
 
 # :white_check_mark: tecnologias do projeto
 -JavaScript
